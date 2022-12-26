@@ -20,4 +20,4 @@ btnStop.addEventListener('click', e => {
   e.currentTarget.disabled = true;
   btnStart.disabled = false;
 });
-console.log('hello world');
+
